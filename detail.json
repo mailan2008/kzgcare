@@ -1,0 +1,120 @@
+{
+	UGANDA:
+	{
+		ENGLISH:
+		{
+			[
+				{
+					CITY:KAMPALA,
+					ADDRESS:Room363,L5,Grand concern house,William Street, Kampala,
+					TEL:+256781000169,
+					TEL2:+256758899140					
+				},
+				{
+					CITY:JINJA,
+					ADDRESS:SMT China Shop, Clive Road, Jinja,
+					TEL:+256789065577,
+					TEL2:+256751766650					
+				},
+				{
+					CITY:MBALE,
+					ADDRESS:	Super Sky Electronic Center, Pallisa Road, Mbale	
+					TEL:+256777757857,
+					TEL2:+256752999459
+				},
+				{
+					CITY:LIRA,
+					ADDRESS:Plot No.15, Olwol Road, Lira	
+					TEL:+256777759590	
+					TEL2:+256752997990
+				},
+				{
+					CITY:ARUA
+					ADDRESS:London Phones, Rhino Camp Road, Arua	
+					TEL:+256777759592	
+					TEL2:+256751767444
+				},
+				{
+					CITY:MBARARA
+					ADDRESS:TM Phones Solutions, High Street, Mbarara	
+					TEL:+256789065533	
+					TEL2:+256752998557
+				},				
+			]
+		}	
+	},
+	RWANDA:
+	{
+		ENGLISH:
+		{
+			[
+				{
+					CITY:KIGALI	
+					ADDRESS:Kigali City Market, Commercial Street, Nyarugenge, Kigali	
+					TEL:+250783101268	
+					TEL2:+250722201268
+				},
+				{
+					CITY:RUBAVU	
+					ADDRESS:1st floor Rubavu Kzg shop ltd,Near Rubavu mosque Gisenyi town,Rubavu	
+					TEL:+250787033697	
+					TEL2:+250722033687
+				},
+				{
+					CITY:RUSIZI	
+					ADDRESS:Near MTN Service Kamembe Town,Rusizi	
+					TEL:+250787033757	
+					TEL2:+250727833757
+				},
+			]
+		},
+		KINYARWANDA:
+		{
+			[
+				{
+					CITY:KIGALI	
+					ADDRESS:Muri Quartier Commercial, Mwisoko Rinshyanshya rya Nyarugenge Muri etage ya gatatu	
+					TEL:+250783101268	
+					TEL2:+250722201268
+				},
+				{
+					CITY:RUBAVU	
+					ADDRESS:Rubavu Kzg shop ltd, Kumangazine munsi y'umusigiti mukuru	
+					TEL:+250787033697	
+					TEL2:+250722033687
+				},
+				{
+					CITY:RUSIZI	
+					ADDRESS:Mu Mugi Wa Kamembe ,Hafi Na MTN Service Center	
+					TEL:+250787033757	
+					TEL2:+250727833757
+				}
+			]
+		},
+	},
+	TANZANIA:
+	{
+		ENGLIST: {
+			[
+				{
+					CITY:DARESALAAM	
+					ADDRESS:2nd Floor, Azania Building, Msimbazi Street, Kariakoo District, Daresalaam	
+					TEL:+255768140942	
+					TEL2:+255659888755
+				},
+			]
+		},
+		SWAHILI:
+		{
+			[
+				{
+					CITY:DARESALAAM
+					ADDRESS:gholofa ya 2,jengo la Azania ghorofa ya pili mtaa WA msimbazi manispaa ya kariakoo ,Daresalaam	
+					TEL:+255768140942	
+					TEL2:+255659888755
+				}
+			]
+		}
+	}
+}
+
