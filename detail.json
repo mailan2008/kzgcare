@@ -1,5 +1,5 @@
 {
-    "Ver": "V01",
+    "Ver": "V02",
     "Lv0:": [
         {
             "Lv1": "Uganda After Sales Network",
@@ -52,11 +52,20 @@
             "Lv2": [
                 {
                     "Title": "DARESALAAM",
-                    "Content": "Address: 2nd Floor, Azania Building, Msimbazi Street, Kariakoo District, Daresalaam \nAnwani: Gholofa Ya 2,jengo La Azania Ghorofa Ya Pili Mtaa WA Msimbazi Manispaa Ya Kariakoo ,Daresalaam \n\nHotline: +255768140942 \n\nHotline: +255659888755\n\n"
+                    "Content": "3nd Floor,Mobile Plaza,Uhuru Street,Kariakoo, Daresalaam \n Hotline: +255768140942\n\nHotline: +255659888755\n\n"
                 }
             ]
         },
-		{
+        {
+            "Lv1": "NGERIA  After Sales Network",
+            "Lv2": [
+                {
+                    "Title": "LAGOS",
+                    "Content": "2nd Floor,Asset Corp Plaza,21 Awolouo Way,Ikeja,Lagos\n Hotline: +2348167382310\n\nHotline: +2349099669726\n\n"
+                }
+            ]
+        },
+        {
             "Lv1": "Warranty Statement (English)",
             "Lv2": [
                 {
@@ -65,7 +74,7 @@
                 }
             ]
         },
-		{
+        {
             "Lv1": "Ibijyanye Na Garanti (KinyaRwanda)",
             "Lv2": [
                 {
@@ -82,6 +91,6 @@
                     "Content": "  Warrantii ya simu za KZG ni miezi 13{12+1} betri ni miezi 6, charger na earphone ni miezi 3 inanza tarehe ya manunuzi ya simu kulingana na risiti. Katika kipindi cha warrantii, kama kutakuwa na tatizo linalosababishwa na simu yenyewe, tutatoa huduma bure.\n\nSababu zifuatazo hazitakuwa katika warrantii\n1.michubuko au mikwaluzo yakawaida\n2.matatizo yanayosababishwa na mteja kutojari au kutokuwa na matumizi mazuri.\n3.matatizo yanayosababishwa na maafa kama:tetemeko la ardhi,mafuriko,moto,nk.\n4.kama simu imefunguliwa au kutengenezwa nje ya KZG huduma kwa wateja\n\nZingatia\n*kama hakuna risiti ya manunuzi warrantii itaanzia kwenye tarehe iliyotengenezwa simu.\n*sababu zifuatazo hazina warrantii, mteja unatakiwa uli pie matengenezo:\n1.kuvunjika au kuvunja kioo.\n2.kukutwa na unyevunyevu au kuwekwa maji.\n3.matatizo yanayosababishwa na kudondoka kwa simu.\n4.karatasi ya warrantii kutolewa ndani ya simu.\n5.baada ya warrantii kwisha muda wake.\n\nASANTE !\n\n"
                 }
             ]
-        }
+        }        
     ]
 }
